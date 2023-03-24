@@ -68,10 +68,10 @@ public class MainActivity extends AppCompatActivity {
         Intent intent =new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
         startActivityForResult(intent, 1);
     }
-    //Reescrevendo o código
+    //Reescrevendo o código para criar um método com parametro de verificação
     @Override
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data){
-        //
+        //verificando se todos os o código correu comm sucesso e imprimindo a foto na imagem do app
         if(requestCode == 1 && resultCode == RESULT_OK){
             Bundle extras = data.getExtras();
             Bitmap imagem = (Bitmap) extras.get("data");
