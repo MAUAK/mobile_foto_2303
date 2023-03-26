@@ -45,8 +45,11 @@ https://github.com/MAUAK/mobile_foto_2303
 
 ## Pré-requisitos ⚠️    
 Versão miníma do Android - 8.0; 
+
 SDK - Pixel 2; 
+
 Aparelho utilizado para testes - Samsung M12;
+
 O aparelho deve ter uma camêra funcionando e um sistema de GPS no celular;
 
 ## Como rodar a aplicação 
