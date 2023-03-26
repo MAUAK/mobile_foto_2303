@@ -50,7 +50,7 @@ Aparelho utilizado para testes - Samsung M12;
 O aparelho deve ter uma camêra funcionando e um sistema de GPS no celular;
 
 ## Como rodar a aplicação 
-O usúario deverá abaixar e brir o aplicativo, após passar a tela de splash, poderá clicar no botão "foto" e tirar uma foto com a camêra ou clicar no botão "GPS" para verificar a localização dele.
+O usúario deverá abaixar e abrir o aplicativo, ativas a permissão do gps e da camêra. Após passar a tela de splash, poderá clicar no botão "foto" e tirar uma foto com a camêra ou clicar no botão "GPS" para verificar a localização dele.
 
 ## Testes realizados
 Utilização de imagens e descrição do qeu foi testado.
@@ -76,6 +76,6 @@ Java
 Kauam Silva Batista
 
 ## Licença
-The MIT License (MIT)
+
 
 ## Copyright ©️ 2023 - mobile_foto_2303
