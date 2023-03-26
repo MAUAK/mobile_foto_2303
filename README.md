@@ -1,7 +1,6 @@
 # mobile_foto_2303
-# Titulo ou Arte do Projeto
 ## Versão: 1.0 
-## Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
+## Status do Projeto: ⚠️ Espera 
 
 ## Tópicos
 🔹 Descrição do projeto 
@@ -33,61 +32,50 @@
 
 ...
 
-Insira os tópicos do README em links para facilitar a navegação do leitor
-
 ## Descrição do projeto
-Descrição breve do projeto compondo um paragrafo ou dois.
+Aplicativo que tira foto e informa a localização do celular em latitude e longitude.
 
 ## Funcionalidades ⚙️
-✔️ Funcionalidade 1
+✔️ Tira foto pela camêra.
 
-✔️ Funcionalidade 2
-
-✔️ Funcionalidade 3
-
-✔️ Funcionalidade 4
+✔️ Informa a localização pelo GPS em tempo real (latitude e longitude).
 
 ## Distribuição
-Link para teste da versão disponibilizada.
+https://github.com/MAUAK/mobile_foto_2303
 
 ## Pré-requisitos ⚠️    
-Versão do Android; 
-SDK; 
-Aparelho utilizado para testes.
-- Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
+Versão miníma do Android - 8.0; 
+SDK - Pixel 2; 
+Aparelho utilizado para testes - Samsung M12;
+O aparelho deve ter uma camêra funcionando e um sistema de GPS no celular;
 
 ## Como rodar a aplicação 
-Explicação de como se deve utilizar o projeto.
+O usúario deverá abaixar e brir o aplicativo, após passar a tela de splash, poderá clicar no botão "foto" e tirar uma foto com a camêra ou clicar no botão "GPS" para verificar a localização dele.
 
 ## Testes realizados
 Utilização de imagens e descrição do qeu foi testado.
 
 ## Banco de Dados 🗂️
-Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
+
 
 ## Linguagens, dependencias e libs utilizadas 📚
 ![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 XML
-...
-Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
+Java
 
 ## Resolvendo Problemas 
-Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
+
 
 ## Recursos de inseridos 🧰
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
 
 📝 Tarefa 1
 
-📝 Tarefa 2
-
-📝 Tarefa 3
 
 ## Desenvolvedores/Contribuintes:
-Liste o time responsável pelo desenvolvimento do projeto
+Kauam Silva Batista
 
 ## Licença
 The MIT License (MIT)
 
-## Copyright ©️ Ano - Titulo do Projeto
+## Copyright ©️ 2023 - mobile_foto_2303
