@@ -75,6 +75,6 @@ XML
 Kauam Silva Batista
 
 ## Licença
-
+The MIT License (MIT)
 
 ## Copyright ©️ 2023 - mobile_foto_geo
