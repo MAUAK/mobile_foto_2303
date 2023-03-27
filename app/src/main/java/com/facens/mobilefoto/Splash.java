@@ -32,7 +32,7 @@ public class Splash extends AppCompatActivity {
                 });
             }
         };
-        //Setando o tempo como 300 milisegundos
+        //Declarando o tempo como 300 milisegundos
         timer.schedule(timerTask, 3000);
     }
     //Criando um método para chamar a classe da tela do mainActivity
