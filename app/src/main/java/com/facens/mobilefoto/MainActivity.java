@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity {
     //Reescrevendo o código para criar um método com parametro de verificação
     @Override
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data){
-        //verificando se todos os o código correu comm sucesso e imprimindo a foto na imagem do app
+        //Transformando a imagem em bitmap
         if(requestCode == 1 && resultCode == RESULT_OK){
             Bundle extras = data.getExtras();
             Bitmap imagem = (Bitmap) extras.get("data");
