@@ -1,6 +1,6 @@
 # mobile_foto_geo
-## Versão: 1.0 
-## Status do Projeto: ⚠️ Espera 
+## Versão: 1.2 
+## Status do Projeto: ✔️ Concluído
 
 ## Tópicos
 🔹 Descrição do projeto 
@@ -71,7 +71,6 @@ XML
 
 ## Recursos de inseridos 🧰
 
-📝 Tarefa 1
 
 
 ## Desenvolvedores/Contribuintes:
