@@ -56,7 +56,7 @@ O aparelho deve ter uma camêra funcionando e um sistema de GPS no celular;
 O usúario deverá abaixar e abrir o aplicativo, ativas a permissão do gps e da camêra. Após passar a tela de splash, poderá clicar no botão "foto" e tirar uma foto com a camêra ou clicar no botão "GPS" para verificar a localização dele.
 
 ## Testes realizados
-Utilização de imagens e descrição do qeu foi testado.
+
 
 ## Banco de Dados 🗂️
 
